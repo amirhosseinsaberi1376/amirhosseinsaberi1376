@@ -1,5 +1,5 @@
 -👋 Hi, I’m Amir Hossein Saberi and I'm 27 years old.
-<br>- 👀 I’m a keen developer who is attracted to the fascinating world of front-end development and interested in learning, obtaining and enhancing skills.<br>- 👨‍🎓 I have a bachelor's degree in software engineering.<br>- ⭐ I'm really fond of JavaScript, TypeScript, React and Next.js.<br>- 📫 Contact me through my email address: amirhosseinsaberi1376@gmail.com<br>
+<br>- 👀 I’m a keen developer who is attracted to the fascinating world of frontend web development and interested in learning, obtaining and enhancing skills.<br>- 👨‍🎓 I have a bachelor's degree in software engineering.<br>- ⭐ I'm really fond of JavaScript, TypeScript, React and Next.js.<br>- 📫 Contact me through my email address: amirhosseinsaberi1376@gmail.com<br>
 
 - [![Amir Hossein Saberi's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirhosseinsaberi1376&show_icon-true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
